@@ -1,7 +1,7 @@
 Hi 👋 My name is Arkell Kenney
 ==============================
 
-Front-end Developer
+Web Developer
 -------------------
 
 I love designing user friendly websites and I am passionate about expanding my knowledge on web development and to communities that share the same interest as I do! Currently I'm enjoying my learning process with React and plan on expanding my knowledge to the backend as well to become a full stack developer.
