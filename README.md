@@ -4,11 +4,11 @@ Hi 👋 My name is Arkell Kenney
 Web Developer
 -------------------
 
-I love designing user friendly websites and I am passionate about expanding my knowledge on web development and to communities that share the same interest as I do! Currently I'm enjoying my learning process with React and plan on expanding my knowledge to the backend as well to become a full stack developer.
+I love designing user-friendly websites and I am passionate about expanding my knowledge of web development and joining communities that share the same interests as I do! Currently, I'm enjoying my learning process with React and expanding my knowledge to the backend as well to become a full-stack developer.
 
 * 🌍  I'm based in North Carolina
 * ✉️  You can contact me at [kenneyarkell@gmail.com](mailto:kenneyarkell@gmail.com)
-* 🧠  I'm learning React, TypeScript, and MERN stack technologies
+* 🧠  I'm learning React, TypeScript, Next, and Node.
 
 ### Skills
 
